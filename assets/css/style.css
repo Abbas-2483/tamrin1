@@ -36,11 +36,6 @@ hr:nth-child(2){
     width: 25px;
     transform: rotate(-45deg) translate(15px,4px);
 }
-.flex_space_between{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
 .bg_black_opacity_half{
     background-color: rgba(0, 0, 0, 0.315);
 }
@@ -49,11 +44,6 @@ hr:nth-child(2){
 }
 .border_radius_10px{
     border-radius: 10px;
-}
-.flex_midlle{
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 .posation_bottom{
     position: absolute;
